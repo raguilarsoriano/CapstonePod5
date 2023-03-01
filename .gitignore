@@ -1,0 +1,8 @@
+# ignore all CSV files in the Db/ folder
+Db/*.csv
+
+# ignore all DB files in the Db/ folder
+Db/*.db
+
+# ignore all tsv files in the Db/ folder
+Db/*.tsv
