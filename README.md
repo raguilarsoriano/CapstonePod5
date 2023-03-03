@@ -3,10 +3,10 @@
 [notebook.pdf](https://github.com/raguilarsoriano/CapstonePod5/files/10886789/notebook.pdf)
 
 # Overview
-
+Our team, Fantastic Five, conducted an analysis of several datasets to give insights for Computing Vision, a big movie company, to be better equipped to create original movies. We used python and inferential statistics to come to three recommendations/insights for Computing Vision to utilize. Juan analyze our first business case, Roberto and Sasha analyized our second business case, and Jordan and Mercedez analyzed our third business case.
 
 # Business Understanding
-Computing Vision, a major movie company, has seen other big companies create original films. They have created a new movie studio to do the same. However, they do not have much experience creating original films. Our team, Fanastic Five, have analyzed movie data to provide Computing Vision with business recommendations and insights that their stakeholders can leverage to create effective original films and stay on top of the industry.
+Computing Vision, a major movie company, has seen other big companies create original films. They have created a new movie studio to do the same. However, they do not have much experience or background in creating original films. Our team, Fanastic Five, have analyzed movie data to provide Computing Vision with business recommendations and insights that their stakeholders can leverage to create effective original films and stay on top of the industry.
 
 # Data Understanding & Analysis
 We are using the im.db and tn.movie_budgets.csv datasets in our analysis. These datasets provide us extensive and useful data that can derive insights that are helpful to Computing Vision. A major limitation of our analysis was time, as our datasets were very large and we did not have as much time as we would have liked to clean and amalyze the data.
