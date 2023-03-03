@@ -3,6 +3,7 @@
 
 # Overview
 
+
 # Business Understanding
 Computing Vision, a major movie company, has seen other big companies create original films. They have created a new movie studio to do the same. However, they do not have much experience creating original films. Our team, Fanastic Five, have analyzed movie data to provide Computing Vision with business recommendations and insights that their stakeholders can leverage to create effective original films and stay on top of the industry.
 
@@ -32,8 +33,10 @@ We conducted an analysis to determine a release season that would yield more pro
 Our null hypothesis stated that there is no difference between the seasonal release date and gross worldwide profits.
 Our alternative Hypothesis stated that there is a difference between the seasonal release date and gross worldwide profits, the sample mean for gross worldwide profits is higher in the Spring & Summer seasons than Fall & Winter seasons.
 We conducted a one-tailed Z-Test, with a significance level of 0.05 (95% confidence) that gross worldwide profits are higher during Spring & Summer. The Z-Score is 1.50, p-value is 0.065, putting movies released in Spring & Summer in the 93.94th percentile.
-We fail to reject the null hypothesis, and therefore we cannot recommend a specific season to release movies. We speculate that Spring & Summer movie releases will lead to higher gross worlwide profits. 
+We fail to reject the null hypothesis, and therefore we cannot recommend a specific season to release movies. We speculate that Spring & Summer movie releases will lead to higher gross worlwide profits.
+
+![image](https://user-images.githubusercontent.com/125094602/222848046-5a86ccd5-63eb-4e20-927f-212e3a4ce38d.png)
+
 
 # Conclusion
 Our concluding recommendations to Computing Vision is for them to create their movie in the adventure genre, to consider other factors than bigger budget to increase revenue, and to keep in mind that Spring & Summer seasons yield higher gross worldwide profits.
-
