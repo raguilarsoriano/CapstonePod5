@@ -38,6 +38,5 @@ We fail to reject the null hypothesis, and therefore we cannot recommend a speci
 
 ![image](https://user-images.githubusercontent.com/125094602/222848046-5a86ccd5-63eb-4e20-927f-212e3a4ce38d.png)
 
-
 # Conclusion
-Our concluding recommendations to Computing Vision is for them to create their movie in the adventure genre, to consider other factors than bigger budget to increase revenue, and to keep in mind that Spring & Summer seasons yield higher gross worldwide profits.
+Our concluding recommendations for Computing Vision is for them to create their movies in the adventure genre, to consider other factors than bigger budget to increase revenue, and to keep in mind that Spring & Summer seasons yield higher gross worldwide profits. We derived these insights from analyzing extensive and useful datasets through python and statistic tests. A limitation that prevented us from analyzing our datasets fully was the lack of time.
