@@ -1,10 +1,7 @@
-# CapstonePod5 (Fantastic 5)
-
 # Deliverables
 [presentation.pdf](https://github.com/raguilarsoriano/CapstonePod5/files/10886040/presentation.pdf)
 
-
-
+# CapstonePod5 (Fantastic 5)
 ![image](https://user-images.githubusercontent.com/125094602/222835629-f68ac1f2-aa42-4001-9d50-d273a9f19695.png)
 ![image](https://user-images.githubusercontent.com/125094602/222835770-0d09b999-36fa-4ba6-9888-82d8adfe88a6.png)
 ![image](https://user-images.githubusercontent.com/125094602/222835830-90c3c43e-fbde-406d-9418-ad55c86d1381.png)
