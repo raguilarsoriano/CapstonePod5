@@ -1,5 +1,5 @@
 # Deliverables
-[presentation.pdf](https://github.com/raguilarsoriano/CapstonePod5/files/10886040/presentation.pdf)
+[presentation.pdf](https://github.com/raguilarsoriano/CapstonePod5/files/10886040/presentation.pdf) | 
 [notebook.pdf](https://github.com/raguilarsoriano/CapstonePod5/files/10886789/notebook.pdf)
 
 # Overview
