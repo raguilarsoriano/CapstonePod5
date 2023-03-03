@@ -34,5 +34,6 @@ Our alternative Hypothesis stated that there is a difference between the seasona
 We conducted a one-tailed Z-Test, with a significance level of 0.05 (95% confidence) that gross worldwide profits are higher during Spring & Summer. The Z-Score is 1.50, p-value is 0.065, putting movies released in Spring & Summer in the 93.94th percentile.
 We fail to reject the null hypothesis, and therefore we cannot recommend a specific season to release movies. We speculate that Spring & Summer movie releases will lead to higher gross worlwide profits. 
 
-
+# Conclusion
+Our concluding recommendations to Computing Vision is for them to create their movie in the adventure genre, to consider other factors than bigger budget to increase revenue, and to keep in mind that Spring & Summer seasons yield higher gross worldwide profits.
 
