@@ -1,0 +1,4 @@
+# ignore checkpoint folder
+.ipynb_checkpoints/
+
+# commenting so gig track a change
