@@ -21,7 +21,7 @@ We conducted an analysis to determine the most profitable genre of movies to cre
 ![image](https://user-images.githubusercontent.com/125094602/222841706-02b4b454-008c-4c7c-9e5e-977724a049cd.png)
 
 Business Recommendation #2:
-We conducted an analysis to determine the amount of budget to use to increase revenue. Based on our analysis, bigger budgets did not translate to higher revenue.
+We conducted an analysis to determine if a higher budget leads to higher revenue. Based on our analysis, higher budgets did not translate to higher revenue.
 
 ![image](https://user-images.githubusercontent.com/125094602/222847191-b1575a20-a537-4689-9a09-bf6b0690bb06.png)
 ![image](https://user-images.githubusercontent.com/125094602/222847223-16cc666d-4faf-4aec-916d-f78591dafb07.png)
@@ -43,4 +43,4 @@ We fail to reject the null hypothesis, and therefore we cannot recommend a speci
 ![image](https://user-images.githubusercontent.com/125094602/222848046-5a86ccd5-63eb-4e20-927f-212e3a4ce38d.png)
 
 # Conclusion
-Our concluding recommendations for Computing Vision is for them to create their movies in the adventure genre, to consider other factors than bigger budget to increase revenue, and to keep in mind that Spring & Summer seasons yield higher gross worldwide profits. We derived these insights from analyzing extensive and useful datasets through python and inferential statistics tests. A limitation that prevented us from analyzing our datasets fully was the lack of time.
+Our concluding recommendations for Computing Vision is for them to create their movies in the adventure genre, to consider other factors than higher budget to increase revenue, and to keep in mind that Spring & Summer seasons yield higher gross worldwide profits. We derived these insights from analyzing extensive and useful datasets through python and inferential statistics tests. A limitation that prevented us from analyzing our datasets fully was the lack of time.
